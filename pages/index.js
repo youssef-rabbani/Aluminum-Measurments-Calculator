@@ -175,8 +175,8 @@ function App() {
                     name="v6"
                     disabled
                     type="text"
-                    label="طول شنجل"
-                    helperText="الرجاء أدخل طول شنجل"
+                    label="طول منخل"
+                    helperText="الرجاء أدخل طول منخل"
                   />
                 </Box>
               </Grid>
@@ -187,8 +187,8 @@ function App() {
                     name="v7"
                     disabled
                     type="text"
-                    label="عرض شنجل"
-                    helperText="الرجاء أدخل عرض شنجل"
+                    label="عرض منخل"
+                    helperText="الرجاء أدخل عرض منخل"
                   />
                 </Box>
               </Grid>
